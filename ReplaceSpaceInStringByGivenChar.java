@@ -4,7 +4,6 @@
 public static void main(String[] args)
 	{
 		String s1 = "Hello World!!How are you?";
-		
 		System.out.println(s1);
 		System.out.println(ReplaceSpace(s1));
 		
