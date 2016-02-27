@@ -49,7 +49,6 @@ public boolean IsPermutation2(String s1, String s2)
 		if(checkers[s2.charAt(count)] < 0)
 				return false;
 	}
-	
 	return true;	
 	
 }
