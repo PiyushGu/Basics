@@ -42,7 +42,7 @@ public boolean HasUniqueCharacters2(String str)
 	return true;
 }
 
-//way 3 - using bit value check 
+//Way 3 - using bit value check 
 public boolean HasUniqueCharacters3(String str)
 {
 	if(str.length() > 256) return false;
